@@ -1,3 +1,17 @@
 
 
-h1 { color: red; }
+h1 {
+  color: red;
+}
+
+.container
+
+{
+  background-color: #9C4FF5;
+  width: 600px;
+  margin: auto;
+}
+#dog {
+  background-color: pink;
+  width: 400px;
+}
