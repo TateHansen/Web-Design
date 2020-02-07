@@ -1,0 +1,145 @@
+
+h1 {
+  color: rgb(2, 17, 50);
+  font-family: 'Bebas Neue';
+}
+h2 {
+  color: rgb(10, 162, 231);
+  font-family: 'Bebas Neue';
+}
+h3 {
+  color: rgb(55, 49, 111);
+  font-family: 'Bebas Neue';
+}
+.header
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  padding: 15px;
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.header h1
+{
+  width: 300px;
+  margin: auto;
+  font-size: 38pt;
+  font-family: 'Bebas Neue';
+  border-radius: 10px;
+}
+.skills
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.WORKEXPERIENCE
+{
+ margin: auto;
+ width: 800px;
+}
+.workexperience
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: -15px;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.jobs
+{
+
+}
+.fosters
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.VFW
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.basketball
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.education
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.Me
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.picture
+{
+  margin: auto;
+  width: 800px;
+}
+.aboutme
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.interests
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.links
+{
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 10px 20px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
