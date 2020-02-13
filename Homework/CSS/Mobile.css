@@ -1,0 +1,166 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  color: rgb(2, 17, 50);
+  font-family: 'Bebas Neue';
+}
+h2 {
+  color: rgb(2, 17, 50);
+  font-family: 'Bebas Neue';
+}
+h3 {
+  color: rgb(10, 162, 231);
+  font-family: 'Bebas Neue';
+}
+h4 {
+  color: rgb(55, 49, 111);
+  font-family: 'Bebas Neue';
+}
+.header {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  padding: 15px;
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+}
+.header h1 {
+  width: 40%px;
+  margin: auto;
+  font-size: 4em;
+  font-family: 'Bebas Neue';
+  border-radius: 10px;
+}
+.skills {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 15px;
+}
+.WORKEXPERIENCE {
+  margin: auto;
+  width: 80%px;
+
+
+}
+.workexperience {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: -1.875%px;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.jobs {
+  
+}
+.fosters {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.VFW {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.basketball {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.education {
+  background-color: rgb(195, 195, 195);
+  width: 800px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.Me {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.picture {
+  margin: auto;
+  width: 80%px;
+}
+.aboutme {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.interests {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.links {
+  background-color: rgb(195, 195, 195);
+  width: 80%px;
+  margin: auto;
+  font-family: 'Bebas Neue';
+  box-shadow: 6px 7px 5px 2px rgb(0, 0, 0);
+  border-radius: 10px;
+    padding: 15px;
+}
+.navigation {
+ display: table;
+ margin: 0 auto;
+ margin-top: 3px;
+ margin-bottom: 8px;
+}
+.horizontaLine {
+  padding-top: 20px;
+  padding-inline-start:50px;
+}
+.horizontaLine li {
+  display: inherit;
+  margin: 20px;
+  padding: 10px;
+  background-color: white;
+  width: 60%;
+  border-radius: 20px;
+}
+.horizontaLine li a {
+  color: rgb(57, 21, 149);
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+.horizontaLine li a:hover {
+  color: rgb(106, 185, 237);
+}
