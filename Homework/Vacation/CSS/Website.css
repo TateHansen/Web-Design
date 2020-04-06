@@ -1,0 +1,79 @@
+body {
+  background-image: url(../IMG/Background3.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-attachment: scroll;
+}
+.section {
+  width: 100%;
+  height: 1000px;
+  margin: auto;
+  display: grid;
+  grid-template-rows: 20% 20% 20%;
+  grid-template-columns: 1fr 1fr 1fr;
+  border-width: 2px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}
+.FindHere1 {
+  background-image: url(../IMG/FindUs.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.Attractions {
+  background-image: url(../IMG/Attractions.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.Lodging {
+  background-image: url(../IMG/Lodging.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.Resturants {
+  background-image: url(../IMG/Resturants.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.Activities {
+  background-image: url(../IMG/Activities.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+h2 {
+  color: rgb(255, 255, 255);
+  font-family: serif;
+  font-style: normal;
+}
+.header {
+  width: 100%;
+  height: 150px;
+  margin: auto;
+  display: grid;
+  grid-template-rows: 100%;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.Footer {
+  margin: auto;
+  display: grid;
+  grid-template-rows: 100%;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: black;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+h1 {
+  font-size: 40px;
+}
+.FindUs3 {
+
+}
+p {
+  color: rgb(255, 255, 255);
+  font-family: serif;
+  font-size: 24px;
+}
